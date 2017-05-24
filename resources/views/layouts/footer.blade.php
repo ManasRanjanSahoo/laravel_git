@@ -1,8 +1,6 @@
 <footer class="blog-footer">
-<p> Blog temolate buitl for <a href="https://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>. </p>
-
-<p>
-<a href="#"> Back to top </a>
-</p>
-
-</footer>
+      <p>Blog template built for <a href="http://getbootstrap.com" marked="1">Bootstrap</a> by <a href="https://twitter.com/mdo" marked="1">@mdo</a>.</p>
+      <p>
+        <a href="#" marked="1">Back to top</a>
+      </p>
+    </footer>
